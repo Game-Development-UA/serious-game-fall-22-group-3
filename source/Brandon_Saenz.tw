@@ -1,6 +1,10 @@
 :: Start
  bedroom
-<<link "sleep in">>
-<<link 'Get up and investigate' 'look out window'>><<link/>>
+<<link 'sleep in'>>
+<<link 'Get up and investigate'>><<link/>>
 
 :: Sleep in
+
+
+:: Get up and investigate
+<<link 'look wout window'>><<link/>>
