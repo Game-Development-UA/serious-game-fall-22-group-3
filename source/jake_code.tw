@@ -1,11 +1,16 @@
-:: StartJ
-It's Saturday morning. You wake up feeling refreshed. How do you wish to start your day?
+:: StoryInit
+<<set $karma to 50>>
+<<set $setting to 'house'>>
 
-<<link "Make breakfast" "Breakfast">><</link>>
-<<link "Take a shower" "Shower">><</link>>
+:: StartJ
+It's 9:32 AM, you wake up with the whole day to yourself. 
+
+<<link 'Make breakfast' 'Breakfast'>><</link>>
+<<link 'Walk outside' 'Outside'>><</link>>
 
 :: Breakfast
 Breakfast screen
 
-:: Shower
-Shower screen
+:: Outside
+You walk outside
+
