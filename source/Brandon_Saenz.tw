@@ -1,7 +1,10 @@
-:: Outside
-You see the rain pouring dow<<next rain>>
-
-You get in your car<<next car>>
-<image car>
-src="https://www.toyotadirect.com/blogs/3084/wp-content/uploads/2020/06/4Runner-White-Front-2018.jpg" alt="car" 
+inside <<capture <<nobr>>
+	variables
+<</nobr>>>>
     
+<</capture>>
+
+The phone sounds off an amber alert, so I have to think fast.
+
+[[run back inside the house]]
+[get out of the car and find shelter] 
